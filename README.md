@@ -1,0 +1,1 @@
+# textpdfreader-policy
